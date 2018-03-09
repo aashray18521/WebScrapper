@@ -1,5 +1,5 @@
 # WebScrapper
-Webscrapper for an article from NY Times in 16 lines of Python<br>
+Webscrapper for an article in <a href="https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html">NY Times</a> in 16 lines of Python<br>
 <h1><b>Outline:</b></h2><br>
 <b>I: Building the dataset</b><br><div>
   1) Reading the web page into Python<br>
